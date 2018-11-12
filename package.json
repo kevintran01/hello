@@ -5,7 +5,9 @@
   "homepage": "https://kevintran01.github.io/hello",
   "dependencies": {
     "gh-pages": "^2.0.1",
+    "marked": "^0.5.1",
     "react": "^16.6.1",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^16.6.1",
     "react-scripts": "2.1.1"
   },
